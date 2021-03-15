@@ -19,7 +19,7 @@ $ cd Project-Management-Full-stack-App
 
 ### 2. Run on Spring Tool Suit 5
 
-- Local MongoDB
+- Local Spring Tool Suit
   - Install it from [here](https://spring.io/tools)
   - Create .env file in root folder
 
